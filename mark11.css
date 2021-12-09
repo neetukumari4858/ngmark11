@@ -49,6 +49,9 @@ input{
 .link{
     text-decoration: none;
     display: inline;
-   
+}
+#output-box{
+    text-align: center;
+    margin-top: 2rem;
 }
 
