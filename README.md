@@ -1,0 +1,1 @@
+This is mark11 that is "birthday lucky".this app will show our birthday date is lucky or not.
